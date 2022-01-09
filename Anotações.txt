@@ -1,0 +1,3 @@
+Arquivo para demonstração do desafio proposto.
+
+Objetivo: Mostrar como criar um arquivo no próprio computador e enviar para um repositório existente.
